@@ -1,0 +1,16 @@
+Buisness: London Apparel
+Description: Online clothing shop.
+
+Current Setup:
+
+Customer -> Website -> Office PC -> Product photos, order spreadsheet, customer info
+
+Product photos live on the office computer.
+Orders are tracked in a spreadsheet.
+Backup's are saved on USB.
+Can only reach files from the office.
+
+Issues cloud computing would solve:
+1 - Current set up the files are stored on office PC.  If the PC goes down or stolen the information being tracked is gone.
+2 - Unable to work remotely currently.
+3 - Customer Data is not secured properly.

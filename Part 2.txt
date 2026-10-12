@@ -1,0 +1,5 @@
+Cloud Requirements: 
+1 - Object storage. To store files and photos online in the cloud that can be accessed anywhere instead of on a physical device.
+2 - Content delivery network (CDN). Makes images load quicker no matter where the customer is viewing the website from.
+3 - Automated backup and recovery.  Safeguard on backing up your data and files.
+4 - Security and encryption.  Assists in ensuring your data and files are secured as they contain customer info.
