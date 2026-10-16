@@ -7,10 +7,14 @@ Selection: Amazon Web services (AWS)
 
 - Durability, Availability
 
-- Private, secure and encrypted
+- Private, secure and encrypted:
+            - 
 
-- 
+- Storage: 
 
+      - Can store data from all sizes, without the hassle of provisioning capacity. 
+      - The back up and archive systems   
+            
 2) Business requirement:
    Solution:
 
