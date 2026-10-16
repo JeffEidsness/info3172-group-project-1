@@ -2,4 +2,13 @@ Part 5: Cloud Approach
 
 Selection: Amazon Web services (AWS)
 
+1) Business requirement:
+   Solution:
+
+2) Business requirement:
+   Solution:
+
+3) Business requirement:
+   Solution:
+
 
