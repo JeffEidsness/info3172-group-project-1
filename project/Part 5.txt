@@ -1,5 +1,5 @@
 Part 5: Cloud Approach
 
-Selection: 
+Selection: Amazon Web services (AWS)
 
 
