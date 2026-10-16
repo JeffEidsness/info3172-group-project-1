@@ -5,6 +5,12 @@ Selection: Amazon Web services (AWS)
 1) Business requirement:
    Solution:
 
+- Durability, Availability
+
+- Private, secure and encrypted
+
+- 
+
 2) Business requirement:
    Solution:
 
