@@ -1,4 +1,4 @@
-Buisness: London Apparel
+Buisness: Aura & Iron
 Description: Online clothing shop.
 
 Current Setup:
