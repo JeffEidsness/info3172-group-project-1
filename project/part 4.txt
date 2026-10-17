@@ -6,7 +6,11 @@
 |----------------------|---------------------|-------------------------------|    
 |         CDN          |  Amazon CloudFront  |        Azure Font Door        |
 |----------------------|---------------------|-------------------------------|
-|    Object Storage    |      Amazon S3      |      Azure Blob Storage       |
+|    Public Storage    |      Amazon S3      |      Azure Blob Storage       |
+|                      |    Public Bucket    |       Public Container        |                          
+|----------------------|---------------------|-------------------------------|
+|    Private Storage   |      Amazon S3      |      Azure Blob Storage       |
+|                      |    Private Bucket   |       Private Container       |  
 |----------------------|---------------------|-------------------------------|
 |       Backup         |     AWS Backup      |         Azure Backup          |
 |----------------------|---------------------|-------------------------------|
