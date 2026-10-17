@@ -1,16 +1,16 @@
 |----------------------------------------------------------------------------|
 | Component            | AWS                 | Microsoft Azure               |
 |----------------------|---------------------|-------------------------------|
-|      Website         |     Amazon S3       |    Azure Static Web Apps      |
+|    Website Hosting   |     Amazon S3       |    Azure Static Web Apps      |
 |                      |   Website Hosting   |                               |
 |----------------------|---------------------|-------------------------------|    
 |         CDN          |  Amazon CloudFront  |        Azure Font Door        |
 |----------------------|---------------------|-------------------------------|
-|    Public Storage    |      Amazon S3      |      Azure Blob Storage       |
-|                      |    Public Bucket    |       Public Container        |                          
+|    Object Storage    |      Amazon S3      |      Azure Blob Storage       |
+|       Public         |    Public Bucket    |       Public Container        |                          
 |----------------------|---------------------|-------------------------------|
-|    Private Storage   |      Amazon S3      |      Azure Blob Storage       |
-|                      |    Private Bucket   |       Private Container       |  
+|    Object Storage    |      Amazon S3      |      Azure Blob Storage       |
+|        Private       |    Private Bucket   |       Private Container       |  
 |----------------------|---------------------|-------------------------------|
 |       Backup         |     AWS Backup      |         Azure Backup          |
 |----------------------|---------------------|-------------------------------|
