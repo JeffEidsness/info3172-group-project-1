@@ -1,0 +1,10 @@
+component explanations 
+
+Customers: users browsing and shopping on the online website.
+Staff: company employees who manage uploads, photos, orders and customer information.
+Website: the online clothing store that customers visit to browse products and place orders. hosted in the cloud in case of broken or stolen computers.  
+CDN: keeps copies of photos on multiple server locations so pages can load quickly wherever they are accessed.
+Object Storage: stores product photos, order spreadsheets, and customer information in a shared online space. remote staff can still access the storage and if office computers are broken or stolen staff can still reach them.
+Backup: automatically copies everything in object storage so data can be recovered if files are damaged, lost, or deleted.
+Encryption: encrypts stored data like product and customer information so it cannot be reached by anyone without permission, which protects the data even if someone gains access. 
+Access Control: only correct and secure log ins can access store files, keeping data safe while staff work remotely.

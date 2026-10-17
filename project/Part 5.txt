@@ -1,0 +1,24 @@
+Part 5: Cloud Approach
+
+Selection: Amazon Web services (AWS)
+
+1) Business requirement: Current set up the files are stored on office PC.  If the PC goes down or stolen the information being tracked is gone
+   Solution: AWS S3
+
+Provides A durable and available storage for data of all sizes, without the problem of provisioning capacity. With scalable and encrypted security   
+
+- Private, secure and encrypted:
+            - Provides a a helping 
+
+- Storage: 
+
+      - Can store data from all sizes, without the hassle of provisioning capacity
+      - The back up and archive systems   
+            
+2) Business requirement: 
+   Solution:
+
+3) Business requirement:
+   Solution:
+
+
