@@ -10,9 +10,7 @@ body{
 }
 .header-container {
   display: flex;         /* Places items on the same line */
-  align-items: center;   /* Aligns the image and text vertically in the middle */
-  gap: 15px;   
-   
+  align-items: center;   /* Aligns the image and text vertically in the middle */  
 }
 .navigation{
   display: flex;
