@@ -12,7 +12,7 @@ Selection: Amazon Web services (AWS)
 
 - Storage: 
 
-      - Can store data from all sizes, without the hassle of provisioning capacity. 
+      - Can store data from all sizes, without the hassle of provisioning capacity
       - The back up and archive systems   
             
 2) Business requirement:
