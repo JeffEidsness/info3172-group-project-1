@@ -1,5 +1,7 @@
 Cloud Requirements: 
-1 - Object storage. To store files and photos online in the cloud that can be accessed anywhere instead of on a physical device.
-2 - Content delivery network (CDN). Makes images load quicker no matter where the customer is viewing the website from.
-3 - Automated backup and recovery.  Safeguard on backing up your data and files.
-4 - Security and encryption.  Assists in ensuring your data and files are secured as they contain customer info.
+1 - Object storage. (Problem 1). Files and photos currently exist only on an office PC.  Storing them in the cloud means they survive any hardware failures and can be reached from anywhere.
+2 - Content delivery network (CDN). (Problem 4). Images are currently served from a single location, so they load slowly for a customer outside the London area. With a CDN images and files are stored on servers across Canada for quicker load time to where the customer accesses the website.
+3 - Automated backup and recovery.  (Problem 1). Backups happen automatically and are stored somewhere other than the office and not reliant on staff to remember to backup on a USB.  Current backup is on Aura & Iron's USB drives that can be lost, stolen or damaged.
+4 - Security and encryption.  (Problem 3). Data of customers currently sits unencrypted on the office PC and a USB backup so a lost or stolen device could expose that data.  Encrypting the data in the cloud would mean even if someone does gain access to the files, they cannot read them.
+5 - Access Control.  (Problems 2 and 3).  Staff currently can only access files from the office PC.  Access control would give each staff member their own login and access levels as well as being able to work remotely.  With secure login and multi-factor authentication it reduces the risk of anyone that isn't supposed to access the files from seeing them.
+6 - Website Hosting. (Problem 1).  Aura & Iron's website is currently running from one location on its existing setup. Cloud hosting would keep the site online if there was ever a hardware failure and can also handle more visitors during busy times without slowing down.

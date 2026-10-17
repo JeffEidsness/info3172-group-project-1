@@ -1,16 +1,19 @@
-Buisness: London Apparel
-Description: Online clothing shop.
+Business: Aura & Iron
+Description: Aura & Iron is an online clothing boutique based in London, Ontario, run by the owner and three staff members.  It sells clothing online and ships across Canada.
 
 Current Setup:
 
 Customer -> Website -> Office PC -> Product photos, order spreadsheet, customer info
 
 Product photos live on the office computer.
+Website and images are served from a single location.
 Orders are tracked in a spreadsheet.
-Backup's are saved on USB.
+Backups are saved on USB.
 Can only reach files from the office.
 
+
 Issues cloud computing would solve:
-1 - Current set up the files are stored on office PC.  If the PC goes down or stolen the information being tracked is gone.
-2 - Unable to work remotely currently.
-3 - Customer Data is not secured properly.
+1 - All files are stored on a single office PC.  If it fails or is stolen, product photos, orders, and customer records are lost.
+2 - Staff currently cannot work remotely because files can only be reached from the office PC.
+3 - Customer data currently sits unencrypted on the office PC and USB backups.  A lost or stolen device would expose the data.
+4 - Product images load slowly for anyone outside of the London area, which can cost sales.
