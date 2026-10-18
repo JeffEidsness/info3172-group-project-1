@@ -8,13 +8,14 @@ Selection: Amazon Web services (AWS)
 
    Provides A durable and available storage for data of all sizes, without the problem of provisioning capacity, as well as allowing centralized management of         continuous backups. With scalable and encrypted security for data management, while also allowing control access. 
             
-2) Business requirement: The customers purchasing/checking out  
+2) Business requirement: The customers purchasing/checking out (cart service) 
 
-   Solution:
+   Solution: ElastiCache
 
-   
+   This will provide our ecommerce website with a cart service that's reliable. Delivers protection, as well as has fast and scalable results. Being able to           migrate as its an open source with little coding. 
 
-3) Business requirement:
+
+3) Business requirement: 
    Solution:
 
 
