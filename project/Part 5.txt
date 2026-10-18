@@ -6,16 +6,25 @@ Selection: Amazon Web services (AWS)
   
    Solution: AWS S3
 
-   Provides A durable and available storage for data of all sizes, without the problem of provisioning capacity, as well as allowing centralized management of         continuous backups. With scalable and encrypted security for data management, while also allowing control access. 
+   Provides A durable and available storage for data of all sizes, without the problem of provisioning capacity, as well as allowing centralized management of       continuous backups. With scalable and encrypted security for data management, while also allowing control access. making it easy to handle for us since most      of the needs are built into AWS S3.
             
 2) Business requirement: The customers purchasing/checking out (cart service) 
 
    Solution: ElastiCache
 
-   This will provide our ecommerce website with a cart service that's reliable. Delivers protection, as well as has fast and scalable results. Being able to           migrate as its an open source with little coding. 
+   This will provide our ecommerce website with a cart service that's reliable. Delivers protection, as well as has fast and scalable results. Being able to          migrate as its an open source with little coding. This lets the customer to shop freely while adding items to their cart and the system saving that data.
 
 
-3) Business requirement: 
-   Solution:
+3) Business requirement: Searching service 
+
+   Solution: Open search
+
+   Provides a searching service with lost cost and auto-optimization and Serverless GPU, allowing less manual effort. Also has agentic search helps get multi-       step retrieval workflows while it adapts to the queries. allowing the customers to search and the systems to adapt to their search.
+
+  
+
+
+
+
 
 
